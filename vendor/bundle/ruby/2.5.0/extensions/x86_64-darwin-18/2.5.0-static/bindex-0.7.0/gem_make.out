@@ -1,0 +1,15 @@
+current directory: /Users/ayu/rails-tutorial/sample_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.7.0/ext/skiptrace
+/Users/ayu/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20190610-6310-150f4f0.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ayu/rails-tutorial/sample_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/ayu/rails-tutorial/sample_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/ayu/rails-tutorial/sample_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190610-6310-1ku7tp7/skiptrace
